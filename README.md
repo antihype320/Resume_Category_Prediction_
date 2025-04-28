@@ -57,16 +57,15 @@ Additionally, a **Streamlit-based web application** has been developed to allow 
 
 ## Technologies Used
 
-- **Python 3.x**
-- **Pandas**: For data manipulation and analysis.
-- **NumPy**: For numerical operations.
-- **Matplotlib & Seaborn**: For data visualization (e.g., category distribution and pie charts).
-- **Scikit-learn**: For machine learning models and vectorization.
+- **Pandas**
+- **NumPy**
+- **Matplotlib & Seaborn**
+- **Scikit-learn**
   - **KNeighborsClassifier**
-  - **SVC** (Support Vector Classifier)
+  - **SVC** 
   - **RandomForestClassifier**
-- **Pickle**: For saving and loading models.
-- **Regular Expressions (re)**: For text preprocessing.
-- **Streamlit**: For building the interactive web application.
-- **PyPDF2**: For extracting text from PDF files.
-- **python-docx**: For extracting text from DOCX files.
+- **Pickle**
+- **Regular Expressions (re)**
+- **Streamlit**
+- **PyPDF2**
+- **python-docx**
