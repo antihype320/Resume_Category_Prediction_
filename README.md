@@ -3,15 +3,10 @@
 ## Project Overview
 This project involves building a machine learning model to automatically classify resumes into different categories based on their content. The system uses natural language processing (NLP) techniques, including text preprocessing and feature extraction, to transform raw resume data into a format suitable for machine learning algorithms. We then apply multiple classifiers, including K-Nearest Neighbors, Support Vector Machines, and Random Forests, to predict the category of a given resume.
 
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/96b0533d-bfc6-44da-b773-c8cd305d6841" 
-       style="border: 8px solid white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2)" 
-       width="70%"/>
-</div>
-
-
-
+<img 
+  src="https://github.com/user-attachments/assets/96b0533d-bfc6-44da-b773-c8cd305d6841" 
+  style="border: 4px solid white; border-radius: 8px; box-shadow: 0 0 12px rgba(255, 255, 255, 0.2); background: rgba(255, 255, 255, 0.1); padding: 5px"
+/>
 
 ![image2](https://github.com/user-attachments/assets/04a447da-85a1-4b86-bf73-5e7e0e031511)
 
